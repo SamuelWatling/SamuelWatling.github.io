@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Samuel Watling / Political Scientist"
+title                    : "Samuel Watling"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,11 +21,11 @@ repository               : "SamuelWatling/SamuelWatling.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "SamWatling.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Political Scientist. Main focus on the politics of housing with a particular interest in Post-war Britain."
+  location         : "Dublin"
   employer         : "Trinity College Dublin"
   uri              : # URL
   email            : "samuelwatlington@gmail.com" 
