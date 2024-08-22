@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-My Work
+European Housing Data
 ======
 
-European Housing Data
-------
+
 
