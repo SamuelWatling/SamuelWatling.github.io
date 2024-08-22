@@ -21,7 +21,7 @@ repository               : "SamuelWatling/SamuelWatling.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "SamWatling.jpg"
+  avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Political Scientist. Main focus on the politics of housing with a particular interest in Post-war Britain."
