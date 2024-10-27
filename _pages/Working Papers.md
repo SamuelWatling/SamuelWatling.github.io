@@ -1,6 +1,6 @@
 ---
-permalink: /working-papers/
-title: "Working Papers"
+permalink: /current-research/
+title: "Current Research"
 ---
 
 ## Locations of key files/directories
