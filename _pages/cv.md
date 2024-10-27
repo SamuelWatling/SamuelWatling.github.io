@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find a link to my CV [here:](https://samuelwatling.github.io/cv/) 
+Please download my CV using [this link](https://raw.githubusercontent.com/SamuelWatling/CV/main/Samuel_Watling_Academic_CV.pdf)
 
 <iframe 
   src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/SamuelWatling/CV/main/Samuel_Watling_Academic_CV.pdf&embedded=true"
@@ -21,33 +21,6 @@ Please find a link to my CV [here:](https://samuelwatling.github.io/cv/)
 
 
 
-Education
-====== 
 
-* Birkbeck College
-* London School of Economics and Political Science
-  Msc Political Science and Political Economy
-* Cambridge University
-
-Work experience
-====== 
-
-* 
-*
-*
-  
-Skills
-====== 
-
-* 
-* 
-*
-
-Publications
-======
-
-* 
-* 
-*
   
 
