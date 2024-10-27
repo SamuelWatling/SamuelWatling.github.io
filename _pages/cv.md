@@ -9,7 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Please find a link to my CV [here:](https://samuelwatling.github.io/cv/)
+Please find a link to my CV [here:](https://samuelwatling.github.io/cv/) 
+
+<embed 
+  src="https://github.com/SamuelWatling/CV/blob/main/Samuel_Watling_Academic_CV.pdf" 
+  type="application/pdf"
+  width="100%"
+  height="600px"
+/>
+
+
 
 Education
 ====== 
